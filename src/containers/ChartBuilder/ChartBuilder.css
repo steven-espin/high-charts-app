@@ -1,0 +1,12 @@
+.ChartBuilder {
+    width: 60%;
+    margin: 16px auto;
+    padding: 16px;
+    text-align: center;
+}
+
+@media (min-width: 800px) {
+    .ChartBuilder {
+        width: 750px;
+    }
+}
